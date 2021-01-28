@@ -26,6 +26,8 @@ int main(void){
     return 0;
 }
 
+
+
 int ransuu(){
     int i;
     srand((unsigned int)time(NULL));
